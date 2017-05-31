@@ -17,3 +17,8 @@ https://www.w3schools.com/cssref/css_selectors.asp - css selector
 
 
 
+
+http://barmax.pl/kontakt/#wroclaw/
+
+
+
