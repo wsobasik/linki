@@ -29,3 +29,8 @@ http://testng.org/doc/documentation-main.html
 http://www.codejava.net/java-se/graphics/how-to-capture-screenshot-programmatically-in-java
 
 http://howtodoinjava.com/testng/how-to-execute-testng-tests-with-maven-build/
+
+https://pixabay.com/en/mountain-road-winding-road-travel-1556177/
+
+http://www.learntosolveit.com/java/Comments.html
+
