@@ -25,6 +25,8 @@ http://barmax.pl/kontakt/#wroclaw/
 
 http://testng.org/doc/documentation-main.html
 
+http://www.testautomationguru.com/
+
 
 http://www.codejava.net/java-se/graphics/how-to-capture-screenshot-programmatically-in-java
 
