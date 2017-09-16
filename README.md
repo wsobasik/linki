@@ -22,6 +22,7 @@ http://barmax.pl/kontakt/#wroclaw/
 
 
 *** JAVA ***
+http://krzysztofjelonek.net/polecam/
 
 http://testng.org/doc/documentation-main.html
 
