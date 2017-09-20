@@ -57,3 +57,10 @@ SELENIUM
 Explicite waits
 
 https://seleniumjava.com/2016/04/05/the-beginners-guide-to-explicit-waits/
+
+
+Example page to be automated:
+
+https://github.com/tourdedave/the-internet
+
+
