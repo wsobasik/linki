@@ -58,6 +58,10 @@ Explicite waits
 
 https://seleniumjava.com/2016/04/05/the-beginners-guide-to-explicit-waits/
 
+http://www.softwaretestingmaterial.com/selenium-wait-commands/
+
+
+
 
 Example page to be automated:
 
