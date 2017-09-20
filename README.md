@@ -52,6 +52,12 @@ Random string:
 https://stackoverflow.com/questions/18069434/generating-alphanumeric-random-string-in-java
 http://ideone.com/xvIZcd#comments
 
+TESTING Resources
+
+https://huddle.eurostarsoftwaretesting.com/resources/test-automation/
+
+
+
 SELENIUM
 
 Explicite waits
