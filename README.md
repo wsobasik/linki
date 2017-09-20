@@ -17,6 +17,7 @@ https://www.w3schools.com/cssref/css_selectors.asp - css selector
 
 
 KSIAZKI:
+
 https://leanpub.com/
 
 
@@ -51,4 +52,8 @@ Random string:
 https://stackoverflow.com/questions/18069434/generating-alphanumeric-random-string-in-java
 http://ideone.com/xvIZcd#comments
 
+SELENIUM
 
+Explicite waits
+
+https://seleniumjava.com/2016/04/05/the-beginners-guide-to-explicit-waits/
