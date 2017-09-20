@@ -66,6 +66,17 @@ https://seleniumjava.com/2016/04/05/the-beginners-guide-to-explicit-waits/
 
 http://www.softwaretestingmaterial.com/selenium-wait-commands/
 
+http://learn-automation.com/explicit-wait-in-selenium-webdriver/
+
+http://www.software-testing-tutorials-automation.com/2014/01/selenium-webdriver-tutorials-basic.html
+
+
+
+
+
+XPath:
+
+http://www.qaautomated.com/2016/05/what-is-xpath-and-how-to-write-xpath.html
 
 
 
