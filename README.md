@@ -60,6 +60,14 @@ https://huddle.eurostarsoftwaretesting.com/resources/test-automation/
 
 SELENIUM
 
+
+
+Many all tutorials and examples
+
+http://artoftesting.com/automationTesting/screenShotInSelenium.html
+
+
+
 Explicite waits
 
 https://seleniumjava.com/2016/04/05/the-beginners-guide-to-explicit-waits/
