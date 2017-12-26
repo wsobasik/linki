@@ -1,5 +1,12 @@
 # linki
 
+
+sql
+
+https://www.w3resource.com/sql-exercises/
+
+
+
 http://websystique.com/spring-4-mvc-tutorial/
 http://www.codejava.net/frameworks/spring/spring-mvc-form-handling-tutorial-and-example 
 
