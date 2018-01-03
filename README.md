@@ -1,6 +1,12 @@
 # linki
 
 
+excercise
+
+https://github.com/PGSSoft/java-spring-course-pwr-2017
+
+
+
 sql
 
 https://www.w3resource.com/sql-exercises/
