@@ -1,6 +1,12 @@
 # linki
 
 
+
+SpringData:
+http://websystique.com/spring-boot/spring-boot-angularjs-spring-data-jpa-crud-app-example/
+
+
+
 excercise
 
 https://github.com/PGSSoft/java-spring-course-pwr-2017
