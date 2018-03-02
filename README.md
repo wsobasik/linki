@@ -1,5 +1,7 @@
 # linki
 
+SQL:
+http://www.sqlpedia.pl/kurs-sql/
 
 
 SpringData:
