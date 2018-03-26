@@ -1,5 +1,10 @@
 # linki
 
+Przyklad sklepu w springu:
+
+https://github.com/mybatis/jpetstore-6
+
+
 SQL:
 http://www.sqlpedia.pl/kurs-sql/
 
