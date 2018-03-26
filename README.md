@@ -1,7 +1,7 @@
 # linki
 
 
-Przyklad sklepu w speringu:
+Przyklad sklepu w springu:
 https://github.com/mybatis/jpetstore-6
 
 SQL:
