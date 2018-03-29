@@ -1,5 +1,8 @@
 # linki
 
+Spring explained:
+http://websystique.com/spring-boot/spring-boot-angularjs-spring-data-jpa-crud-app-example/
+
 Przyklad sklepu w springu:
 
 https://github.com/mybatis/jpetstore-6
