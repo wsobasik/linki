@@ -16,6 +16,11 @@ SpringData:
 http://websystique.com/spring-boot/spring-boot-angularjs-spring-data-jpa-crud-app-example/
 
 
+MAVEN:
+https://www.youtube.com/watch?v=vllKCrA22ME
+http://books.sonatype.com/mvnref-book/pdf/mvnref-pdf.pdf
+
+
 
 excercise
 
