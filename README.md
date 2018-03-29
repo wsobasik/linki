@@ -125,4 +125,8 @@ Example page to be automated:
 
 https://github.com/tourdedave/the-internet
 
+Inne
+
+https://synonim.net/synonim/ilustracja
+
 
