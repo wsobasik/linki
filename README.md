@@ -134,4 +134,8 @@ Inne
 
 https://synonim.net/synonim/ilustracja
 
+Free items in open library:
+https://archive.org/
+
+
 
